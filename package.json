@@ -52,7 +52,7 @@
     "cz-git": "1.11.0",
     "del": "8.0.0",
     "eslint": "9.14.0",
-    "eslint-config-mister-hope": "0.3.0",
+    "eslint-config-mister-hope": "0.4.1",
     "gulp": "5.0.0",
     "gulp-rename": "2.0.0",
     "gulp-replace": "1.1.4",
