@@ -69,7 +69,7 @@
     "stylelint-order": "6.0.4",
     "typescript": "5.7.3"
   },
-  "packageManager": "pnpm@9.15.0",
+  "packageManager": "pnpm@9.15.5",
   "pnpm": {
     "overrides": {
       "css": "npm:@adobe/css-tools@^4.4.0"
